@@ -2,6 +2,6 @@
   "dependencies": {
     "nodemon": "3.1.9",
     "chalk": "5.4.0",
-    "xmldoc": "2.0.0"
+    "xmldoc": "2.0.1"
   }
 }
