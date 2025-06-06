@@ -1,7 +1,7 @@
 {
   "packageRules": [
     {
-      "matchPackageNames": ["nodemon", "chalk"],
+      "matchPackageNames": ["nodemon", "xmldoc"],
       "groupName": "group1"
     }
   ]
